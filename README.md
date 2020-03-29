@@ -34,3 +34,6 @@ Ui Related
 3.https://medium.com/@douglas.iacovelli/the-beauty-of-custom-views-and-how-to-do-it-79c7d78e2088
 4.https://www.youtube.com/watch?v=cfwO0Yui43g
 5.https://www.youtube.com/watch?v=BxBcs1ddEn8
+
+Top Repo:
+1. https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
