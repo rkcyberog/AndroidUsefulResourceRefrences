@@ -44,6 +44,8 @@ Performance and tunning
 
 3.https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies
 
+4. https://medium.com/@kevalpatel2106/how-you-can-decrease-application-size-by-60-in-only-5-minutes-47eff3e7874e
+
 
 Ui Related
 
