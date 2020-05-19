@@ -96,3 +96,7 @@ Developer's Insights
 
 1.https://www.youtube.com/watch?v=HOAaSnfJPjo
 
+
+Basic Concepts:
+
+1.https://stackoverflow.com/questions/18054720/what-is-callback-in-android
