@@ -100,3 +100,8 @@ Developer's Insights
 Basic Concepts:
 
 1.https://stackoverflow.com/questions/18054720/what-is-callback-in-android
+
+
+Advance Features
+
+1.https://developer.android.com/guide/playcore/dynamic-delivery
