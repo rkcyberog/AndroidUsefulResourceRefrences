@@ -74,6 +74,7 @@ Top Articles:
 RxJava
 
 1.https://guides.codepath.com/android/RxJava#using-rxjava-with-retrofit
+
 2.https://codingwithmitch.com/courses/rxjava-rxandroid-for-beginners/
 
 
@@ -85,6 +86,13 @@ Dagger2.2
 CheatSheat
 
 1.https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def
+
 2.https://android.jlelse.eu/android-interview-questions-cheat-sheet-part-ii-bea0633f0da7
+
 3.https://github.com/MindorksOpenSource/android-interview-questions
+
+
+Developer's Insights
+
+1.https://www.youtube.com/watch?v=HOAaSnfJPjo
 
