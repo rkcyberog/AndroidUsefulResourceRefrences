@@ -65,9 +65,22 @@ Top Repo:
 
 1. https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
 
+
 Top Articles:
 
 1. https://www.androidelements.com/
+
+
+RxJava
+
+1.https://guides.codepath.com/android/RxJava#using-rxjava-with-retrofit
+2.https://codingwithmitch.com/courses/rxjava-rxandroid-for-beginners/
+
+
+Dagger2.2
+
+1.https://codingwithmitch.com/courses/dagger22-android/
+
 
 CheatSheat
 
