@@ -60,6 +60,8 @@ Ui Related
 
 5.https://www.youtube.com/watch?v=BxBcs1ddEn8
 
+6.https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e
+
 
 Top Repo:
 
@@ -100,6 +102,12 @@ Developer's Insights
 Basic Concepts:
 
 1.https://stackoverflow.com/questions/18054720/what-is-callback-in-android
+
+2.https://www.journaldev.com/14207/android-passing-data-between-fragments
+
+3.https://www.journaldev.com/9266/android-fragment-lifecycle
+
+4.https://medium.com/@vinodpattanshetti49/fragment-lifecycle-while-doing-add-and-replace-6a3f084364af
 
 
 Advance Features
