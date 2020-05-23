@@ -15,6 +15,8 @@ Networking and Threading
 
 6.https://medium.com/@sahityakumarsuman/android-service-communication-with-activity-2c01e537ab03
 
+7. https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09
+
 
 ViewModels
 
