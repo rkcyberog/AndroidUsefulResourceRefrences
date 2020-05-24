@@ -115,6 +115,8 @@ Basic Concepts:
 
 4.https://medium.com/@vinodpattanshetti49/fragment-lifecycle-while-doing-add-and-replace-6a3f084364af
 
+5.https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f
+
 
 Advance Features
 
