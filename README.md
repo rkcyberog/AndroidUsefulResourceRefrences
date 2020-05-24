@@ -64,6 +64,10 @@ Ui Related
 
 6.https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e
 
+7.https://medium.com/@sahoosunilkumar/understanding-view-lifecycle-in-android-e42890aab16
+
+8.https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b
+
 
 Top Repo:
 
