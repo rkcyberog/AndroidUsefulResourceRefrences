@@ -117,6 +117,8 @@ Basic Concepts:
 
 5.https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f
 
+6. https://medium.com/@saranyaan2710/content-provider-in-android-basics-d219cf42574d
+
 
 Advance Features
 
