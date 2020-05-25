@@ -123,6 +123,8 @@ Basic Concepts:
 
 6. https://medium.com/@saranyaan2710/content-provider-in-android-basics-d219cf42574d
 
+7. https://stackoverflow.com/questions/32482215/what-are-android-annotations-and-what-are-they-used-for
+
 
 Kotlin
 1.https://www.journaldev.com/18719/kotlin-sealed-class
