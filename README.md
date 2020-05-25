@@ -129,6 +129,7 @@ Basic Concepts:
 
 
 Kotlin
+
 1.https://www.journaldev.com/18719/kotlin-sealed-class
 
 2.https://www.journaldev.com/19467/kotlin-let-run-also-apply-with
