@@ -92,6 +92,8 @@ Dagger2.2
 
 1.https://codingwithmitch.com/courses/dagger22-android/
 
+2.https://android.jlelse.eu/dagger-2-part-i-basic-principles-graph-dependencies-scopes-3dfd032ccd82
+
 
 CheatSheat
 
