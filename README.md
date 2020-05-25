@@ -124,6 +124,15 @@ Basic Concepts:
 6. https://medium.com/@saranyaan2710/content-provider-in-android-basics-d219cf42574d
 
 
+Kotlin
+1.https://www.journaldev.com/18719/kotlin-sealed-class
+
+2.https://www.journaldev.com/19467/kotlin-let-run-also-apply-with
+
+3.https://www.journaldev.com/20479/kotlin-coroutines
+
+4.https://www.journaldev.com/18594/kotlin-data-class
+
 Advance Features
 
 1.https://developer.android.com/guide/playcore/dynamic-delivery
