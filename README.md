@@ -80,6 +80,8 @@ Top Articles:
 
 1. https://www.androidelements.com/
 
+2. https://mindorks.com/android-tutorial
+
 
 RxJava
 
@@ -134,6 +136,18 @@ Kotlin
 3.https://www.journaldev.com/20479/kotlin-coroutines
 
 4.https://www.journaldev.com/18594/kotlin-data-class
+
+5. https://www.youtube.com/watch?v=AiFBEH54Xpw&t=448s
+
+6. https://www.youtube.com/watch?v=yEX9_PeNRy4
+
+7.https://www.youtube.com/watch?v=eB3lAL8UK9s&list=PL6nth5sRD25iv8jZrQWD-5dXgu56ae5m8&index=12
+
+8. https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
+
+9.https://blog.mindorks.com/suspend-function-in-kotlin-coroutines
+
+10. https://stackoverflow.com/questions/52369508/kotlin-coroutines-async-await-sequence
 
 Advance Features
 
