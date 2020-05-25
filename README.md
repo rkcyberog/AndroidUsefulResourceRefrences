@@ -15,7 +15,7 @@ Networking and Threading
 
 6.https://medium.com/@sahityakumarsuman/android-service-communication-with-activity-2c01e537ab03
 
-7. https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09
+7.https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09
 
 
 ViewModels
@@ -46,7 +46,7 @@ Performance and tunning
 
 3.https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies
 
-4. https://medium.com/@kevalpatel2106/how-you-can-decrease-application-size-by-60-in-only-5-minutes-47eff3e7874e
+4.https://medium.com/@kevalpatel2106/how-you-can-decrease-application-size-by-60-in-only-5-minutes-47eff3e7874e
 
 
 Ui Related
@@ -68,19 +68,19 @@ Ui Related
 
 8.https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b
 
-9. https://medium.com/@fraggjkee/recyclerview-2020-a-modern-way-of-dealing-with-lists-in-android-using-databinding-d97abf5fb55f
+9.https://medium.com/@fraggjkee/recyclerview-2020-a-modern-way-of-dealing-with-lists-in-android-using-databinding-d97abf5fb55f
 
 
 Top Repo:
 
-1. https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
+1.https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4
 
 
 Top Articles:
 
-1. https://www.androidelements.com/
+1.https://www.androidelements.com/
 
-2. https://mindorks.com/android-tutorial
+2.https://mindorks.com/android-tutorial
 
 
 RxJava
@@ -123,9 +123,9 @@ Basic Concepts:
 
 5.https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f
 
-6. https://medium.com/@saranyaan2710/content-provider-in-android-basics-d219cf42574d
+6.https://medium.com/@saranyaan2710/content-provider-in-android-basics-d219cf42574d
 
-7. https://stackoverflow.com/questions/32482215/what-are-android-annotations-and-what-are-they-used-for
+7.https://stackoverflow.com/questions/32482215/what-are-android-annotations-and-what-are-they-used-for
 
 
 Kotlin
@@ -137,17 +137,17 @@ Kotlin
 
 4.https://www.journaldev.com/18594/kotlin-data-class
 
-5. https://www.youtube.com/watch?v=AiFBEH54Xpw&t=448s
+5.https://www.youtube.com/watch?v=AiFBEH54Xpw&t=448s
 
-6. https://www.youtube.com/watch?v=yEX9_PeNRy4
+6.https://www.youtube.com/watch?v=yEX9_PeNRy4
 
 7.https://www.youtube.com/watch?v=eB3lAL8UK9s&list=PL6nth5sRD25iv8jZrQWD-5dXgu56ae5m8&index=12
 
-8. https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
+8.https://github.com/MindorksOpenSource/Kotlin-Coroutines-Android-Examples
 
 9.https://blog.mindorks.com/suspend-function-in-kotlin-coroutines
 
-10. https://stackoverflow.com/questions/52369508/kotlin-coroutines-async-await-sequence
+10.https://stackoverflow.com/questions/52369508/kotlin-coroutines-async-await-sequence
 
 Advance Features
 
@@ -162,4 +162,4 @@ Youtube Tutorials:
 
 3.https://www.raywenderlich.com/
 
-4. https://www.youtube.com/channel/UC3xHg20VI9mKFRaSs1yaicw
+4.https://www.youtube.com/channel/UC3xHg20VI9mKFRaSs1yaicw
