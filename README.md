@@ -68,6 +68,8 @@ Ui Related
 
 8.https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b
 
+9. https://medium.com/@fraggjkee/recyclerview-2020-a-modern-way-of-dealing-with-lists-in-android-using-databinding-d97abf5fb55f
+
 
 Top Repo:
 
