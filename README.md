@@ -91,6 +91,8 @@ RxJava
 
 2.https://codingwithmitch.com/courses/rxjava-rxandroid-for-beginners/
 
+3.https://stackoverflow.com/questions/46312937/when-to-use-rxjava-in-android-and-when-to-use-livedata-from-android-architectura
+
 
 Dagger2.2
 
