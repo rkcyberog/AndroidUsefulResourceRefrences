@@ -17,6 +17,9 @@ Networking and Threading
 
 7.https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09
 
+8.https://medium.com/@frank.tan/using-handlerthread-in-android-46c285936fdd
+
+9.https://medium.com/@frank.tan/using-a-thread-pool-in-android-e3c88f59d07f
 
 ViewModels
 
