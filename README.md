@@ -72,6 +72,8 @@ Ui Related
 
 10.https://stackoverflow.com/questions/26543131/how-to-implement-endless-list-with-recyclerview
 
+11.https://blog.mindorks.com/how-does-recyclerview-work-internally
+
 
 Top Repo:
 
