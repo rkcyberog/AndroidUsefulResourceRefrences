@@ -133,6 +133,8 @@ Basic Concepts:
 
 7.https://stackoverflow.com/questions/32482215/what-are-android-annotations-and-what-are-they-used-for
 
+8.https://developer.android.com/training/basics/intents/filters#java
+
 
 Kotlin
 
