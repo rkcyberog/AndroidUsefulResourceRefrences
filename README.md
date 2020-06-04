@@ -82,6 +82,8 @@ Ui Related
 
 11.https://blog.mindorks.com/how-does-recyclerview-work-internally
 
+12.https://medium.com/mindorks/android-design-shimmer-effect-fa7f74c68a93
+
 
 Top Repo:
 
