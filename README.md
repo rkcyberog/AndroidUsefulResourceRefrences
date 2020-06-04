@@ -19,6 +19,7 @@ Networking and Threading
 
 8.https://medium.com/@frank.tan/using-handlerthread-in-android-46c285936fdd
 
+
 9.https://medium.com/@frank.tan/using-a-thread-pool-in-android-e3c88f59d07f
 
 10.https://guides.codepath.com/android/managing-threads-and-custom-services
@@ -52,6 +53,8 @@ Performance and tunning
 3.https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies
 
 4.https://medium.com/@kevalpatel2106/how-you-can-decrease-application-size-by-60-in-only-5-minutes-47eff3e7874e
+
+5.https://blog.mindorks.com/applying-proguard-in-an-android-application
 
 
 Ui Related
