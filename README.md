@@ -19,7 +19,6 @@ Networking and Threading
 
 8.https://medium.com/@frank.tan/using-handlerthread-in-android-46c285936fdd
 
-
 9.https://medium.com/@frank.tan/using-a-thread-pool-in-android-e3c88f59d07f
 
 10.https://guides.codepath.com/android/managing-threads-and-custom-services
@@ -29,6 +28,8 @@ ViewModels
 1.https://medium.com/google-developer-experts/viewmodels-under-the-hood-f8e286c4cc72
 
 2.https://proandroiddev.com/the-curious-case-of-survival-of-viewmodel-afe074992fbc
+
+3.https://medium.com/better-programming/how-to-fix-a-serious-problem-in-livedata-android-594a3f18e981
 
 
 Activity and Fragment
