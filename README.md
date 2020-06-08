@@ -23,6 +23,8 @@ Networking and Threading
 
 10.https://guides.codepath.com/android/managing-threads-and-custom-services
 
+11.https://www.youtube.com/watch?v=TN-CGfzvBhc&feature=youtu.be
+
 ViewModels
 
 1.https://medium.com/google-developer-experts/viewmodels-under-the-hood-f8e286c4cc72
