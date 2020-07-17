@@ -33,6 +33,8 @@ ViewModels
 
 3.https://medium.com/better-programming/how-to-fix-a-serious-problem-in-livedata-android-594a3f18e981
 
+4.https://medium.com/better-programming/everything-to-should-understand-about-livedata-507dd83adea7
+
 
 Activity and Fragment
 
