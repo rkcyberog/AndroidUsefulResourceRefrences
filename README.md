@@ -89,6 +89,8 @@ Ui Related
 
 12.https://medium.com/mindorks/android-design-shimmer-effect-fa7f74c68a93
 
+13.https://stackoverflow.com/questions/32704825/oncreateviewholder-of-recyclerview-adapter-is-called-twice-or-more-multiple-tim
+
 
 Top Repo:
 
