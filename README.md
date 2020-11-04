@@ -181,6 +181,7 @@ Advance Features
 
 1.https://developer.android.com/guide/playcore/dynamic-delivery
 
+2.https://docs.google.com/presentation/d/1jFFfStpaEp6YxzO84NnXIYZxScotF_UIg003iBOnM3w/edit#slide=id.g8b3fada8af_0_98
 
 Youtube Tutorials:
 
