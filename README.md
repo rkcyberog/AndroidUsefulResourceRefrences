@@ -195,4 +195,3 @@ Youtube Tutorials:
 
 5.https://www.vogella.com/tutorials/android.html
 
-Kotlin
