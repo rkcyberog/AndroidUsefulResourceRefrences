@@ -195,3 +195,8 @@ Youtube Tutorials:
 
 5.https://www.vogella.com/tutorials/android.html
 
+
+Usefull Blogs:
+1. https://blog.mindorks.com/practical-guide-to-solve-out-of-memory-error-in-android-application
+
+2. https://medium.com/okcredit/how-okcredit-android-app-boosted-network-performance-by-30-84109080c065
